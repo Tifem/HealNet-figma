@@ -1,0 +1,24 @@
+<svg width="47" height="48" viewBox="0 0 47 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="47" height="48" fill="#1E1E1E"/>
+<g id="Desktop" clip-path="url(#clip0_1_697)">
+<rect width="1366" height="6368" transform="translate(-100 -48)" fill="white"/>
+<rect id="BG Hero Gradient" x="-100" y="-48" width="1366" height="890" fill="url(#paint0_linear_1_697)"/>
+<g id="Group 3">
+<g id="Group 2">
+<path id="Vector" d="M0.0078125 29.2174C0.0078125 26.8879 0.466975 24.5811 1.35914 22.429C2.25131 20.2767 3.55894 18.3212 5.20743 16.6739C6.85592 15.0267 8.81289 13.72 10.9667 12.8285C13.1206 11.9372 15.4291 11.4783 17.7604 11.4783V29.2174H0.0078125Z" fill="#00A4F4"/>
+<path id="Vector_2" d="M0.0078125 29.2173C0.0078125 31.6839 0.466975 34.1263 1.35914 36.4052C2.25131 38.6839 3.55894 40.7545 5.20743 42.4986C6.85592 44.2427 8.81289 45.6263 10.9667 46.5702C13.1206 47.5141 15.4291 47.9999 17.7604 47.9999V29.2173H0.0078125Z" fill="#2CBEFF"/>
+<path id="Vector_3" d="M35.5131 29.2173C35.5131 31.6839 35.0542 34.1263 34.1621 36.4052C33.27 38.6839 31.9624 40.7545 30.3136 42.4986C28.6651 44.2427 26.708 45.6263 24.5541 46.5702C22.4003 47.5141 20.0917 47.9999 17.7604 47.9999V29.2173H35.5131Z" fill="#75D4FF"/>
+<path id="Vector_4" d="M47 13.5652C47 21.0571 40.9218 27.1304 33.4244 27.1304H19.8489V13.5652C19.8489 6.07338 25.9269 0 33.4244 0C40.9218 0 47 6.07338 47 13.5652Z" fill="#0084D4"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_697" x1="-100" y1="-48" x2="328.426" y2="791.244" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2FAFF"/>
+<stop offset="0.882698" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0_1_697">
+<rect width="1366" height="6368" fill="white" transform="translate(-100 -48)"/>
+</clipPath>
+</defs>
+</svg>
